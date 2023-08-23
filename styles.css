@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+
+
+const container = document.getElementById("colorSelect")
+
+function removeMe(){
+	container.removeChild;
+}
